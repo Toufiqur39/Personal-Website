@@ -1,0 +1,82 @@
+body{
+    font-family: 'Noto Serif', serif;
+}
+h2{
+    font-size: 20px;
+    color: rgb(3, 3, 62);
+}
+h1{
+    font-size: 30px;
+    color: rgb(51, 79, 4);
+    font-weight: bolder;
+}
+.first{
+    width: 40%;
+    padding: 3%;
+    margin: 2%;
+    float: left;
+    
+
+}
+.first img{
+    width: 500px;
+    float: right;
+}
+.FB{
+    text-decoration: none;
+    padding: 4px 8px;
+    background-image: linear-gradient(rgb(20, 20, 104), rgb(12, 81, 133));
+    color: antiquewhite;
+    border-radius: 8px;
+}
+.Link{
+    text-decoration: none;
+    padding: 4px 8px;
+    background-image: linear-gradient(rgb(10, 96, 96), rgb(41, 84, 122));
+    color: bisque;
+    border-radius: 10px;
+}
+.second{
+   background-image: url(images/header-bg.png);
+   background-repeat: no-repeat;
+   
+}
+.third{
+    width: 40%;
+    padding: 3%;
+    margin: 2%;
+    float: right;
+}
+.third img{
+    width: 500px;
+    float: left;
+}
+.CV{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(40, 40, 210), rgb(9, 108, 108));
+    border-radius: 10px;
+    padding: 6px 8px;
+    color: bisque;
+}
+.fourth{
+    background-image: url(images/biography-bg.png);
+}
+#late{
+    text-align: center;
+    
+}
+.pic{
+    width: 20%;
+    height: 40%;
+    padding-left: 5%;
+    margin: 3%;
+    
+
+}
+.fifth{
+
+    background-image: url(images/latest-work-bg.png);
+}
+.feed{
+    text-align: center;
+}
